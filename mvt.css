@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,700;1,800;1,900&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section img {
+    position: absolute;
+    width: auto;
+    height: 60px;
+    object-fit: cover;
+}
+section h2 {
+    position: relative;
+    color: #ff0000;
+    font-size: 12rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.layer1 {
+    top: 4%;
+    left: 3%;
+}
+.layer2 {
+    top: 6%;
+    left: 20%;
+}
+.layer3 {
+    top: 30%;
+    left: 80%;
+}
+.layer4 {
+    top: 65%;
+    left: 55%;
+}
+.layer5 {
+    bottom: 3%;
+    right: 3%;
+}
+.layer6 {
+    bottom: 20%;
+    right: 10%;
+}
+.layer7 {
+    top: 4%;
+    right: 3%;
+}
+.layer8 {
+    top: 70%;
+    left: 70%;
+}
+.layer9 {
+    top: 40%;
+    right: 3%;
+}
+.layer10 {
+    top: 8%;
+    left: 60%;
+}
+.layer11 {
+    top: 70%;
+    left: 10%;
+}
+.layer12 {
+    top: 7%;
+    left: 50%;
+}
+.layer13 {
+    top: 85%;
+    left: 45%;
+}
+.layer14 {
+    top: 35%;
+    left: 5%;
+}
+.layer15 {
+    top: 75%;
+    left: 30%;
+}
+.layer16 {
+    top: 10%;
+    left: 35%;
+}
+.layer17 {
+    top: 50%;
+    right: 20%;
+}
+.layer18 {
+    top: 63%;
+    left: 43%;
+}
+.layer19 {
+    top: 35%;
+    left: 20%;
+}
+.layer20 {
+    top: 80%;
+    left: 20%;
+}
+.layer21 {
+    top: 20%;
+    left: 12%;
+}
+.layer22 {
+    top: 55%;
+    left: 3%;
+}
+.layer23 {
+    top: 4%;
+    left: 70%;
+}
+.layer24 {
+    top: 80%;
+    right: 33%;
+}
+
